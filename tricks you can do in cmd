@@ -4,4 +4,8 @@ shutdown /i will open up the Remote Shutdown dialog and from there you can enete
 
 veiw network info: ipconfig /all.
 
+color (num 0-9/A-F) (num 0-9/A-F) to change colour, 02 for matrix
+
+tree - make your friends think you're hacking.
+
 ADDING MORE SOON
